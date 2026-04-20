@@ -1,6 +1,5 @@
 # 🚀 Hello, World! Tiago Sol Ribeiro has landed! 👋
 
-[![Email](https://img.shields.io/badge/Email-tiagosol3011%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagosol3011@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-sol-ribeiro-3022b8251/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiagosol_/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013914631722)  
