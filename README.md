@@ -35,7 +35,7 @@ Currently running my **MSc in Informatics Engineering @ UTAD**, deep into **Arti
 </td>
 <td width="38%" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="hacker typing gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding gif"/>
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ Currently running my **MSc in Informatics Engineering @ UTAD**, deep into **Arti
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" alt="terminal gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="terminal gif"/>
 
 </td>
 <td width="65%" valign="middle">
@@ -243,7 +243,7 @@ ReFood · Vila Real Athletics
 
 ### `>_` &nbsp; **THE RELIGION** &nbsp; ❤️🦅
 
-<img src="https://media.giphy.com/media/3o7TKSx0g7RqRniGZW/giphy.gif" width="280" alt="football celebration gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="120" alt="fire"/>
 
 **`SL Benfica`** — because even my exception handling has more drama than a derby. ❤️
 
