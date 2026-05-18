@@ -14,10 +14,6 @@
 <a href="https://www.instagram.com/tiagosol_/"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100013914631722"><img src="https://custom-icon-badges.demolab.com/badge/Facebook-00b8d4?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=tiagosol04&label=NEURAL%20VISITORS&color=ff0080&style=for-the-badge" alt="visitors"/>
-
 </div>
 
 <br/>
@@ -229,11 +225,27 @@ ReFood · Vila Real Athletics
 
 ---
 
-<!-- ═══════════════════  07 · OUTRO  ═══════════════════ -->
+<!-- ═══════════════════  07 · THE GRID  ═══════════════════ -->
+
+### `07` &nbsp; **THE GRID** &nbsp; 🐍
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="matrix gif"/>
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!-- ═══════════════════  08 · OUTRO  ═══════════════════ -->
+
+<div align="center">
+
+### `>_` &nbsp; **THE RELIGION** &nbsp; ❤️🦅
+
+<img src="https://media.giphy.com/media/3o7TKSx0g7RqRniGZW/giphy.gif" width="280" alt="football celebration gif"/>
+
+**`SL Benfica`** — because even my exception handling has more drama than a derby. ❤️
 
 <br/>
 
