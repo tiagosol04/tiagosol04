@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/tiago-sol-ribeiro-3022b8251/"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f0ff"/></a>
-<a href="https://www.instagram.com/tiagosol_/"><img src="https://img.shields.io/badge/INSTAGRAM-0d0221?style=for-the-badge&logo=instagram&logoColor=ff0080"/></a>
-<a href="https://www.facebook.com/profile.php?id=100013914631722"><img src="https://img.shields.io/badge/FACEBOOK-0d0221?style=for-the-badge&logo=facebook&logoColor=7700ff"/></a>
+<a href="https://www.linkedin.com/in/tiago-sol-ribeiro-3022b8251/"><img src="https://img.shields.io/badge/LINKEDIN-7700ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/tiagosol_/"><img src="https://img.shields.io/badge/INSTAGRAM-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100013914631722"><img src="https://img.shields.io/badge/FACEBOOK-00b8d4?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 </div>
 
