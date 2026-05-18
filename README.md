@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/tiago-sol-ribeiro-3022b8251/"><img src="https://img.shields.io/badge/LINKEDIN-7700ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/tiagosol_/"><img src="https://img.shields.io/badge/INSTAGRAM-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100013914631722"><img src="https://img.shields.io/badge/FACEBOOK-00b8d4?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tiago-sol-ribeiro-3022b8251/"><img src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-7700ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/tiagosol_/"><img src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100013914631722"><img src="https://custom-icon-badges.demolab.com/badge/FACEBOOK-00b8d4?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 </div>
 
@@ -50,12 +50,23 @@ Building mobile applications to **monitor the life cycle and quality of motorcyc
 </td>
 <td width="42%" valign="top">
 
-### `▓ ./stats`
+### `▓ ./system_status`
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tiagosol&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d0221&title_color=ff0080&icon_color=00f0ff&text_color=ffffff" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosol&theme=synthwave&hide_border=true&background=0d0221&ring=ff0080&fire=00f0ff&currStreakLabel=00f0ff" width="100%"/>
-</div>
+```yaml
+core:        Informatics Engineer
+focus:       [ AI, Data Analysis, Mobile, Systems ]
+education:   MSc Informatics Eng. @ UTAD
+fuel:        ████████░░  caffeine 84%
+mode:        full-cycle  // sensor → backend → dashboard
+uptime:      always shipping
+```
+
+```diff
++ thinks in architecture, not just code
++ ships systems, not snippets
++ learns the stack mid-project, no panic
+! occasionally writes tomorrow's bug today
+```
 
 </td>
 </tr>
@@ -122,11 +133,15 @@ Building mobile applications to **monitor the life cycle and quality of motorcyc
 </td>
 <td width="50%" valign="top">
 
-### `▓ ./trophies`
+### `▓ ./proficiency`
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tiagosol&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=4&margin-h=4" width="100%"/>
-</div>
+```text
+Mobile / Kotlin   ███████████████░░░  ▓
+Backend / C# Java  ██████████████░░░░  ▓
+Data / Big Data    █████████████░░░░░  ▓
+AI / Analysis      █████████████░░░░░  ▓
+Systems / Infra    ████████████░░░░░░  ▓
+```
 
 </td>
 </tr>
@@ -154,11 +169,9 @@ Building mobile applications to **monitor the life cycle and quality of motorcyc
 
 <div align="center">
 
-### `▓ ./contribution_grid`
+### `▓ ./connect`
 
-![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:7700ff,100:00f0ff&height=4&width=100%25"/>
 
 ```
 > connection open. ready for projects, internships & technical talks.
