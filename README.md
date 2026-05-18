@@ -1,62 +1,170 @@
-# 🚀 Hello, World! Tiago Sol Ribeiro has landed! 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-sol-ribeiro-3022b8251/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiagosol_/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013914631722)  
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--   ▓▓▓  T I A G O   S O L   R I B E I R O  //  SYSTEM v2.0  ▓▓▓   -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:ff0080,70:00f0ff,100:7700ff&height=240&section=header&text=TIAGO%20SOL%20RIBEIRO&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=//%20INFORMATICS%20ENGINEER%20·%20MOBILE%20DEV%20·%20AI%20%2F%2F%20DATA&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-## 📜 Patch Notes: Tiago v2.0 (Now with Master's Degree DLC!)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3200&pause=800&color=00F0FF&background=00000000&center=true&vCenter=true&width=680&lines=%3E+booting+neural+core...;%3E+compiling+caffeine+into+commits;%3E+building+apps+that+keep+motorcycles+alive;%3E+AI+%2B+DATA+%2B+MOBILE+%3D+online;%3E+status%3A+always+shipping" alt="typing" />
 
-Welcome to my repository. I’m a developer passionate about technology, innovation, and solving problems—especially the ones I accidentally created the night before.
+<br/><br/>
 
-Currently, I’m pursuing my **Master’s in Informatics Engineering at UTAD** (Vila Real, 🇵🇹). If my code isn't compiling, it's because I'm deep into AI, Data Analysis, or wondering how my final thesis will magically finish itself.
+<a href="https://www.linkedin.com/in/tiago-sol-ribeiro-3022b8251/"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0d0221"/></a>
+<a href="https://www.instagram.com/tiagosol_/"><img src="https://img.shields.io/badge/INSTAGRAM-0d0221?style=for-the-badge&logo=instagram&logoColor=ff0080&labelColor=0d0221"/></a>
+<a href="https://www.facebook.com/profile.php?id=100013914631722"><img src="https://img.shields.io/badge/FACEBOOK-0d0221?style=for-the-badge&logo=facebook&logoColor=7700ff&labelColor=0d0221"/></a>
 
-### 🏍️ Current "Main Quest"
-I’m a **Research Fellow at the A-MoVeR project**. Essentially, I’m the digital mechanic in the house: developing mobile apps (*Low-Code, Kotlin, FlutterFlow, Firebase*) to monitor motorcycle life cycles and quality. Yes, my code accelerates faster than a 125cc on a downhill! 💨
+</div>
 
----
-
-## 🎒 My Utility Belt (Tech Stack)
-
-### 🗣️ Languages I use to speak to the machines:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) *(Yes, I survived Haskell... please send snacks)*
-
-### 📱 Where the Magic Happens (Web & Mobile):
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Survival Tools & Data:
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) *(Because mice are overrated)*
+```
+┌─[ system://identity ]──────────────────────────────────────────────┐
+│  USER ......... Tiago Sol Ribeiro                                   │
+│  ROLE ......... Informatics Engineer  //  Mobile · AI · Systems     │
+│  LOCATION ..... Vila Real, PT  ▸  UTAD                              │
+│  STATUS ....... ● ONLINE — building, learning, shipping            │
+└────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🕹️ Random Facts about my RAM (Brain):
+<table>
+<tr>
+<td width="58%" valign="top">
 
-* **Patience of a Saint:** I worked as a Sales Assistant at *SportZone* and volunteered with toddlers at *Malta Gira*. Dealing with Git merge conflicts or users who don't know what they want? Piece of cake. 🥣
-* **Community Driven:** I spend some of my human CPU helping out at **ReFood** and the **Vila Real Athletics Club**. Even the universe needs some good commits.
-* **Human Polyglot:** Native Portuguese, English (B2), and Spanish (B2) — enough to order *una cerveza* and debug things with the neighbors.
+### `▓ ./whoami`
+
+Informatics Engineer who turns messy problems into clean systems — and, every now and then, writes the bug I'll fix the next morning. It's part of the protocol.
+
+Currently running my **Master's in Informatics Engineering @ UTAD**, with active modules in **Artificial Intelligence** and **Data Analysis**.
+
+Runtime philosophy: code that works, architecture that scales, data-driven decisions, and swapping the stack mid-project without panicking.
+
+### `▓ ./current_mission`
+
+**`[ A-MoVeR PROJECT ]` — Research Fellow**
+
+Building mobile applications to **monitor the life cycle and quality of motorcycles** — from sensor to dashboard, in real time.
+
+`Kotlin` · `FlutterFlow` · `Firebase` · `Low-Code`
+
+</td>
+<td width="42%" valign="top">
+
+### `▓ ./stats`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tiagosol&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d0221&title_color=ff0080&icon_color=00f0ff&text_color=ffffff" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosol&theme=synthwave&hide_border=true&background=0d0221&ring=ff0080&fire=00f0ff&currStreakLabel=00f0ff" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🦅 The Religion... BENFICA ❤️
+### `▓ ./load_arsenal`
 
-![Benfica](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
+<div align="center">
+
+**◤ LANGUAGES ◥**
+
+![C](https://img.shields.io/badge/C-0d0221?style=flat-square&logo=c&logoColor=00f0ff)
+![C++](https://img.shields.io/badge/C++-0d0221?style=flat-square&logo=cplusplus&logoColor=ff0080)
+![C#](https://img.shields.io/badge/C%23-0d0221?style=flat-square&logo=dotnet&logoColor=7700ff)
+![Java](https://img.shields.io/badge/JAVA-0d0221?style=flat-square&logo=openjdk&logoColor=ff0080)
+![Python](https://img.shields.io/badge/PYTHON-0d0221?style=flat-square&logo=python&logoColor=00f0ff)
+![Kotlin](https://img.shields.io/badge/KOTLIN-0d0221?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d0221?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**◤ MOBILE · WEB · GAME ◥**
+
+![FlutterFlow](https://img.shields.io/badge/FLUTTERFLOW-0d0221?style=flat-square&logo=flutter&logoColor=00f0ff)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-0d0221?style=flat-square&logo=dotnet&logoColor=7700ff)
+![Unity](https://img.shields.io/badge/UNITY-0d0221?style=flat-square&logo=unity&logoColor=ff0080)
+![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=flat-square&logo=html5&logoColor=ff0080)
+![CSS3](https://img.shields.io/badge/CSS3-0d0221?style=flat-square&logo=css3&logoColor=00f0ff)
+
+**◤ DATA · BIG DATA ◥**
+
+![Firebase](https://img.shields.io/badge/FIREBASE-0d0221?style=flat-square&logo=firebase&logoColor=ff0080)
+![SQL](https://img.shields.io/badge/SQL-0d0221?style=flat-square&logo=postgresql&logoColor=00f0ff)
+![SQLite](https://img.shields.io/badge/SQLITE-0d0221?style=flat-square&logo=sqlite&logoColor=7700ff)
+![PowerBI](https://img.shields.io/badge/POWER_BI-0d0221?style=flat-square&logo=powerbi&logoColor=F2C811)
+![BigData](https://img.shields.io/badge/BIG_DATA-0d0221?style=flat-square&logo=apachespark&logoColor=00f0ff)
+
+**◤ SYSTEMS · INFRA ◥**
+
+![SystemIntegration](https://img.shields.io/badge/SYSTEM_INTEGRATION-0d0221?style=flat-square&logo=buffer&logoColor=ff0080)
+![DesignPatterns](https://img.shields.io/badge/SOFTWARE_PATTERNS-0d0221?style=flat-square&logo=blueprint&logoColor=7700ff)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-0d0221?style=flat-square&logo=rabbitmq&logoColor=ff0080)
+![Grafana](https://img.shields.io/badge/GRAFANA-0d0221?style=flat-square&logo=grafana&logoColor=F2C811)
+![Docker](https://img.shields.io/badge/DOCKER-0d0221?style=flat-square&logo=docker&logoColor=00f0ff)
+![Linux](https://img.shields.io/badge/LINUX-0d0221?style=flat-square&logo=linux&logoColor=ff0080)
+![Git](https://img.shields.io/badge/GIT-0d0221?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
 
 ---
-*PS: If you're a recruiter reading this, I promise I wear a (metaphorical) suit and tie when needed. Explore my repos and let's chat!* 🚀
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `▓ ./core_competencies`
+
+`[ ARCHITECTURE ]` System Integration & Software Design Patterns — modular, decoupled and scalable solution design.
+
+`[ DATA AT SCALE ]` Big Data pipelines and observability with Grafana, plus asynchronous messaging via RabbitMQ.
+
+`[ FULL CYCLE ]` From mobile prototype to backend and dashboard — I deliver the whole system, not just one layer.
+
+</td>
+<td width="50%" valign="top">
+
+### `▓ ./trophies`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tiagosol&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=4&margin-h=4" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### `▓ ./background_processes`
+
+`[ TEAM_OPS ]` Sales Assistant @ SportZone — handling people under pressure is a feature, not a bug.
+
+`[ COMMUNITY ]` Volunteer at **ReFood** and the **Vila Real Athletics Club**. The best commits also happen offline.
+
+`[ I/O ]` Portuguese `native` · English `B2` · Spanish `B2`. Clean documentation in any language.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `▓ ./contribution_grid`
+
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+```
+> connection open. ready for projects, internships & technical talks.
+> recruiters welcome — formal attire compiles on demand.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7700ff,40:00f0ff,70:ff0080,100:0d0221&height=140&section=footer" width="100%"/>
+
+</div>
