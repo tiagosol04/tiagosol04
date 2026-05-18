@@ -4,7 +4,7 @@
 <!--   ▓▓▓  T I A G O   S O L   R I B E I R O  //  SYSTEM v2.0  ▓▓▓   -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:ff0080,70:00f0ff,100:7700ff&height=240&section=header&text=TIAGO%20SOL%20RIBEIRO&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=//%20INFORMATICS%20ENGINEER%20·%20MOBILE%20DEV%20·%20AI%20%2F%2F%20DATA&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:ff0080,70:00f0ff,100:7700ff&height=240&section=header&text=TIAGO%20SOL%20RIBEIRO&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=//%20INFORMATICS%20ENGINEER%20·%20MOBILE%20·%20AI%20·%20SYSTEMS&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3200&pause=800&color=00F0FF&background=00000000&center=true&vCenter=true&width=680&lines=%3E+booting+neural+core...;%3E+compiling+caffeine+into+commits;%3E+building+apps+that+keep+motorcycles+alive;%3E+AI+%2B+DATA+%2B+MOBILE+%3D+online;%3E+status%3A+always+shipping" alt="typing" />
 
@@ -16,57 +16,42 @@
 
 </div>
 
-```
+```ansi
 ┌─[ system://identity ]──────────────────────────────────────────────┐
 │  USER ......... Tiago Sol Ribeiro                                   │
 │  ROLE ......... Informatics Engineer  //  Mobile · AI · Systems     │
 │  LOCATION ..... Vila Real, PT  ▸  UTAD                              │
-│  STATUS ....... ● ONLINE — building, learning, shipping            │
-└────────────────────────────────────────────────────────────────────┘
+│  STATUS ....... ● ONLINE — building, learning, shipping             │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
+## `▓ ./whoami`
+
+> Informatics Engineer who turns messy problems into clean systems —
+> and, every now and then, writes the bug I'll fix the next morning.
+> *It's part of the protocol.*
+
+Currently running my **Master's in Informatics Engineering @ UTAD**, with active modules in **Artificial Intelligence** and **Data Analysis**. I don't just write code — I architect systems that scale, make data-driven calls, and swap the stack mid-project without panicking.
+
+---
+
+## `▓ ./current_mission`
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="120" align="center" valign="middle">
 
-### `▓ ./whoami`
-
-Informatics Engineer who turns messy problems into clean systems — and, every now and then, writes the bug I'll fix the next morning. It's part of the protocol.
-
-Currently running my **Master's in Informatics Engineering @ UTAD**, with active modules in **Artificial Intelligence** and **Data Analysis**.
-
-Runtime philosophy: code that works, architecture that scales, data-driven decisions, and swapping the stack mid-project without panicking.
-
-### `▓ ./current_mission`
-
-**`[ A-MoVeR PROJECT ]` — Research Fellow**
-
-Building mobile applications to **monitor the life cycle and quality of motorcycles** — from sensor to dashboard, in real time.
-
-`Kotlin` · `FlutterFlow` · `Firebase` · `Low-Code`
+### 🏍️
+**`A-MoVeR`**
 
 </td>
-<td width="42%" valign="top">
+<td valign="middle">
 
-### `▓ ./system_status`
+**Research Fellow** — building mobile applications that **monitor the life cycle and quality of motorcycles**, from raw sensor data all the way to a live dashboard.
 
-```yaml
-core:        Informatics Engineer
-focus:       [ AI, Data Analysis, Mobile, Systems ]
-education:   MSc Informatics Eng. @ UTAD
-fuel:        ████████░░  caffeine 84%
-mode:        full-cycle  // sensor → backend → dashboard
-uptime:      always shipping
-```
-
-```diff
-+ thinks in architecture, not just code
-+ ships systems, not snippets
-+ learns the stack mid-project, no panic
-! occasionally writes tomorrow's bug today
-```
+`Kotlin` &nbsp;·&nbsp; `FlutterFlow` &nbsp;·&nbsp; `Firebase` &nbsp;·&nbsp; `Low-Code`
 
 </td>
 </tr>
@@ -74,73 +59,77 @@ uptime:      always shipping
 
 ---
 
-### `▓ ./load_arsenal`
+## `▓ ./load_arsenal`
 
 <div align="center">
 
-**◤ LANGUAGES ◥**
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![C](https://img.shields.io/badge/C-0d0221?style=flat-square&logo=c&logoColor=00f0ff)
-![C++](https://img.shields.io/badge/C++-0d0221?style=flat-square&logo=cplusplus&logoColor=ff0080)
-![C#](https://img.shields.io/badge/C%23-0d0221?style=flat-square&logo=dotnet&logoColor=7700ff)
-![Java](https://img.shields.io/badge/JAVA-0d0221?style=flat-square&logo=openjdk&logoColor=ff0080)
-![Python](https://img.shields.io/badge/PYTHON-0d0221?style=flat-square&logo=python&logoColor=00f0ff)
-![Kotlin](https://img.shields.io/badge/KOTLIN-0d0221?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d0221?style=flat-square&logo=javascript&logoColor=F7DF1E)
+#### ⌨️ LANGUAGES
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,kotlin,js&theme=dark" />
 
-**◤ MOBILE · WEB · GAME ◥**
+</td>
+<td valign="top" width="33%">
 
-![FlutterFlow](https://img.shields.io/badge/FLUTTERFLOW-0d0221?style=flat-square&logo=flutter&logoColor=00f0ff)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-0d0221?style=flat-square&logo=dotnet&logoColor=7700ff)
-![Unity](https://img.shields.io/badge/UNITY-0d0221?style=flat-square&logo=unity&logoColor=ff0080)
-![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=flat-square&logo=html5&logoColor=ff0080)
-![CSS3](https://img.shields.io/badge/CSS3-0d0221?style=flat-square&logo=css3&logoColor=00f0ff)
+#### 📱 MOBILE · WEB · GAME
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,unity,html,css&theme=dark" />
 
-**◤ DATA · BIG DATA ◥**
+</td>
+<td valign="top" width="33%">
 
-![Firebase](https://img.shields.io/badge/FIREBASE-0d0221?style=flat-square&logo=firebase&logoColor=ff0080)
-![SQL](https://img.shields.io/badge/SQL-0d0221?style=flat-square&logo=postgresql&logoColor=00f0ff)
-![SQLite](https://img.shields.io/badge/SQLITE-0d0221?style=flat-square&logo=sqlite&logoColor=7700ff)
-![PowerBI](https://img.shields.io/badge/POWER_BI-0d0221?style=flat-square&logo=powerbi&logoColor=F2C811)
-![BigData](https://img.shields.io/badge/BIG_DATA-0d0221?style=flat-square&logo=apachespark&logoColor=00f0ff)
+#### 🗄️ DATA · BIG DATA
+<img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite,grafana&theme=dark" />
+<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+<img src="https://custom-icon-badges.demolab.com/badge/Big_Data-00f0ff?style=flat-square&logo=apache-spark&logoColor=black" />
 
-**◤ SYSTEMS · INFRA ◥**
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="3" align="center">
 
-![SystemIntegration](https://img.shields.io/badge/SYSTEM_INTEGRATION-0d0221?style=flat-square&logo=buffer&logoColor=ff0080)
-![DesignPatterns](https://img.shields.io/badge/SOFTWARE_PATTERNS-0d0221?style=flat-square&logo=blueprint&logoColor=7700ff)
-![RabbitMQ](https://img.shields.io/badge/RABBITMQ-0d0221?style=flat-square&logo=rabbitmq&logoColor=ff0080)
-![Grafana](https://img.shields.io/badge/GRAFANA-0d0221?style=flat-square&logo=grafana&logoColor=F2C811)
-![Docker](https://img.shields.io/badge/DOCKER-0d0221?style=flat-square&logo=docker&logoColor=00f0ff)
-![Linux](https://img.shields.io/badge/LINUX-0d0221?style=flat-square&logo=linux&logoColor=ff0080)
-![Git](https://img.shields.io/badge/GIT-0d0221?style=flat-square&logo=git&logoColor=F05032)
+#### ⚙️ SYSTEMS · INFRASTRUCTURE · ARCHITECTURE
+<img src="https://skillicons.dev/icons?i=docker,linux,git,rabbitmq&theme=dark" />
+&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/System_Integration-ff0080?style=flat-square&logo=git-merge&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Software_Design_Patterns-7700ff?style=flat-square&logo=sitemap&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## `▓ ./skill_matrix`
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `▓ ./core_competencies`
-
-`[ ARCHITECTURE ]` System Integration & Software Design Patterns — modular, decoupled and scalable solution design.
-
-`[ DATA AT SCALE ]` Big Data pipelines and observability with Grafana, plus asynchronous messaging via RabbitMQ.
-
-`[ FULL CYCLE ]` From mobile prototype to backend and dashboard — I deliver the whole system, not just one layer.
+```js
+const tiago = {
+  mobile:   "█████████░ Kotlin / FlutterFlow",
+  backend:  "████████░░ C# / Java / .NET",
+  data:     "████████░░ Big Data / Power BI",
+  ai:       "███████░░░ ML / Data Analysis",
+  systems:  "███████░░░ Integration / Patterns",
+};
+```
 
 </td>
 <td width="50%" valign="top">
 
-### `▓ ./proficiency`
-
-```text
-Mobile / Kotlin   ███████████████░░░  ▓
-Backend / C# Java  ██████████████░░░░  ▓
-Data / Big Data    █████████████░░░░░  ▓
-AI / Analysis      █████████████░░░░░  ▓
-Systems / Infra    ████████████░░░░░░  ▓
+```diff
+@ what you get when you hire me @
++ ships full systems, not snippets
++ thinks in architecture first
++ learns any new stack fast
++ clean docs in PT / EN / ES
+! powered by an unhealthy caffeine intake
 ```
 
 </td>
@@ -149,17 +138,35 @@ Systems / Infra    ████████████░░░░░░  ▓
 
 ---
 
+## `▓ ./background_processes`
+
 <table>
 <tr>
-<td width="100%" valign="top">
+<td align="center" width="33%">
 
-### `▓ ./background_processes`
+**`[ TEAM_OPS ]`**
+<br/><br/>
+Sales Assistant @ SportZone
+<br/>
+*handling people under pressure is a feature, not a bug*
 
-`[ TEAM_OPS ]` Sales Assistant @ SportZone — handling people under pressure is a feature, not a bug.
+</td>
+<td align="center" width="33%">
 
-`[ COMMUNITY ]` Volunteer at **ReFood** and the **Vila Real Athletics Club**. The best commits also happen offline.
+**`[ COMMUNITY ]`**
+<br/><br/>
+ReFood · Vila Real Athletics Club
+<br/>
+*the best commits also happen offline*
 
-`[ I/O ]` Portuguese `native` · English `B2` · Spanish `B2`. Clean documentation in any language.
+</td>
+<td align="center" width="33%">
+
+**`[ I/O ]`**
+<br/><br/>
+🇵🇹 `native` · 🇬🇧 `B2` · 🇪🇸 `B2`
+<br/>
+*clean documentation in any language*
 
 </td>
 </tr>
@@ -167,11 +174,17 @@ Systems / Infra    ████████████░░░░░░  ▓
 
 ---
 
+## `▓ ./contribution_grid`
+
 <div align="center">
 
-### `▓ ./connect`
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:7700ff,100:00f0ff&height=4&width=100%25"/>
+</div>
+
+---
+
+<div align="center">
 
 ```
 > connection open. ready for projects, internships & technical talks.
