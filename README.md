@@ -21,8 +21,7 @@
 <a href="mailto:tiagosol3011@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-c1121f?style=for-the-badge&logo=mail&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0005-6559-5716"><img src="https://custom-icon-badges.demolab.com/badge/ORCID-5a189a?style=for-the-badge&logo=north-star&logoColor=white"/></a>
 <a href="https://github.com/tiagosol04"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://custom-icon-badges.demolab.com/badge/Vila%20Real%2C%20Portugal-00b4d8?style=for-the-badge&logo=location&logoColor=white"/>
-
+<img src="https://custom-icon-badges.demolab.com/badge/Portugal-00b4d8?style=for-the-badge&logo=location&logoColor=white"/>
 </div>
 
 <br/>
