@@ -1,19 +1,21 @@
 <!-- ============================================================ -->
 <!--  TIAGO SOL RIBEIRO · GitHub Profile README                  -->
 <!--  Renders on LIGHT and DARK GitHub themes                    -->
-<!--  Services: capsule-render · typing-svg · shields.io         -->
-<!--  custom-icon-badges · skillicons.dev · gh-readme-stats      -->
-<!--  github-profile-trophy · streak-stats · activity-graph      -->
+<!--  Only battle tested services are used here:                 -->
+<!--  shields.io · custom-icon-badges · skillicons.dev           -->
+<!--  capsule-render · readme-typing-svg · github-readme-stats   -->
+<!--  Everything else is native GitHub markdown, so it always    -->
+<!--  renders: tables, mermaid, details blocks and ASCII.        -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,40:5a189a,75:0466c8,100:00b4d8&height=250&section=header&text=TIAGO%20SOL%20RIBEIRO&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Junior%20Software%20Developer%20%C2%B7%20MSc%20Student%20%C2%B7%20Research%20Fellow&descAlignY=54&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,40:5a189a,75:0466c8,100:00b4d8&height=250&section=header&text=TIAGO%20SOL%20RIBEIRO&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Junior%20Software%20Developer%20%C2%B7%20MSc%20Student%20%C2%B7%20Android%20%26%20Backend&descAlignY=54&descSize=17&animation=fadeIn" width="100%"/>
 
 <!-- Typing banner: one color per theme so it is always readable -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+that+runs+inside+real+factories;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;From+the+first+requirement+to+the+last+deploy;Always+learning.+Always+shipping." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=5A189A&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+that+runs+inside+real+factories;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;From+the+first+requirement+to+the+last+deploy;Always+learning.+Always+shipping." alt="typing banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+for+real+industrial+environments;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;From+the+first+requirement+to+the+last+deploy;Always+learning.+Always+shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=5A189A&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+for+real+industrial+environments;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;From+the+first+requirement+to+the+last+deploy;Always+learning.+Always+shipping." alt="typing banner"/>
 </picture>
 
 <br/><br/>
@@ -23,11 +25,10 @@
 <a href="https://orcid.org/0009-0005-6559-5716"><img src="https://custom-icon-badges.demolab.com/badge/ORCID-5a189a?style=for-the-badge&logo=north-star&logoColor=white"/></a>
 <a href="https://github.com/tiagosol04"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://custom-icon-badges.demolab.com/badge/Portugal-00b4d8?style=for-the-badge&logo=location&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=tiagosol04&style=for-the-badge&color=5a189a&label=VISITORS"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:5a189a,100:00b4d8&height=4&section=header" width="100%"/>
 
 </div>
+
+---
 
 <!-- ==================== BOOT ==================== -->
 
@@ -37,10 +38,10 @@
 tiago@utad:~$ ./start_profile.sh
 
   [ok]  loading developer .................. Tiago Sol Ribeiro
-  [ok]  location .......................... Portugal, 200km of coffee from Lisbon
+  [ok]  location .......................... Portugal, somewhere between code and coffee
   [ok]  role .............................. Junior Software Developer
   [ok]  studying .......................... MSc Computer Engineering @ UTAD
-  [ok]  research .......................... Project A-MoVeR
+  [ok]  focus ............................. Android · Backend · Systems Integration
   [..]  status ............................ building something right now
 ```
 
@@ -56,7 +57,7 @@ tiago@utad:~$ ./start_profile.sh
 
 I am a Computer Engineering **MSc student at UTAD** and a **Junior Software Developer**. Most of my work lives where software meets the physical world: production lines, quality control, traceability and operational data.
 
-As a **Research Fellow at Project A-MoVeR** I turn messy industrial requirements into things people actually use every day. Android apps on the shop floor, REST APIs behind them, databases holding the truth, dashboards making it visible.
+I have built digital solutions for real industrial workflows, so I am used to turning messy requirements into things people actually use every day. Android apps on the shop floor, REST APIs behind them, databases holding the truth, dashboards making it visible.
 
 I like clean architecture, code that survives contact with reality, and the moment a feature stops being a spec and starts being a habit for someone.
 
@@ -64,7 +65,6 @@ I like clean architecture, code that survives contact with reality, and the mome
 name:        Tiago Sol Ribeiro
 role:        Junior Software Developer
 studying:    MSc Computer Engineering @ UTAD
-research:    Project A-MoVeR
 focus:       [ backend, mobile, systems integration ]
 stack:       [ Kotlin, Java, C#, Python, SQL ]
 languages:   [ PT native, EN B2, ES B2 ]
@@ -81,9 +81,7 @@ open_to:     junior roles, internships, collaborations
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,50:0466c8,100:5a189a&height=4&section=header" width="100%"/>
-</div>
+---
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -120,27 +118,33 @@ open_to:     junior roles, internships, collaborations
 
 </div>
 
-<!-- ==================== SKILL LEVELS ==================== -->
+---
 
-## 📶 Where I am comfortable (and where I am still climbing)
+<!-- ==================== HOW I WORK (native mermaid, always renders) ==================== -->
 
-```text
-Kotlin / Android      ████████████████████░░░░   very comfortable
-Java                  ██████████████████░░░░░░   comfortable
-C# / ASP.NET Core     ████████████████░░░░░░░░   comfortable
-SQL & data modeling   ████████████████░░░░░░░░   comfortable
-Python                ██████████████░░░░░░░░░░   solid
-Docker & Linux        ███████████░░░░░░░░░░░░░   getting there
-Cloud & CI/CD         ████████░░░░░░░░░░░░░░░░   currently climbing
+## 🔁 How a project usually goes with me
+
+```mermaid
+flowchart LR
+    A([Someone has a problem]) --> B[Understand the workflow]
+    B --> C[Model the data]
+    C --> D[Build the API]
+    D --> E[Build the app]
+    E --> F[Test with real users]
+    F --> G([Deploy])
+    G -.-> B
+
+    style A fill:#5a189a,stroke:#00b4d8,color:#ffffff
+    style G fill:#0466c8,stroke:#00b4d8,color:#ffffff
 ```
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5a189a,50:0466c8,100:00b4d8&height=4&section=header" width="100%"/>
-</div>
+I care about the loop at the end. Software that never goes back to the people using it tends to age badly.
+
+---
 
 <!-- ==================== WORK ==================== -->
 
-## 🏭 What I am building
+## 🏭 What I build
 
 <table>
 <tr>
@@ -182,11 +186,13 @@ Turning raw operational data into something a manager can read in ten seconds an
 </table>
 
 <!-- 
-  TIP: replace the four cards above with your real repositories using pinned repo cards:
+  TIP: to show real repositories here, pin them with:
   <a href="https://github.com/tiagosol04/REPO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagosol04&repo=REPO&theme=tokyonight"/>
   </a>
 -->
+
+---
 
 <!-- ==================== STATS ==================== -->
 
@@ -199,39 +205,13 @@ Turning raw operational data into something a manager can read in ten seconds an
   <img src="https://github-readme-stats.vercel.app/api?username=tiagosol04&show_icons=true&hide_border=true&bg_color=00000000&title_color=0466c8&text_color=24292f&icon_color=5a189a&include_all_commits=true&count_private=true" height="170" alt="github stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tiagosol04&hide_border=true&background=00000000&ring=00E5FF&fire=5a189a&currStreakLabel=00E5FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-  <img src="https://streak-stats.demolab.com?user=tiagosol04&hide_border=true&background=00000000&ring=0466c8&fire=5a189a&currStreakLabel=0466c8&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" height="170" alt="streak"/>
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosol04&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosol04&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0466c8&text_color=24292f" height="165" alt="top languages"/>
-</picture>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tiagosol04&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="trophies"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tiagosol04&bg_color=00000000&color=00E5FF&line=5a189a&point=00b4d8&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagosol04&bg_color=00000000&color=0466c8&line=5a189a&point=00b4d8&hide_border=true&area=true" width="100%" alt="activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosol04&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0466c8&text_color=24292f" height="170" alt="top languages"/>
 </picture>
 
 </div>
 
-<!-- 
-  OPTIONAL: contribution snake.
-  Create .github/workflows/snake.yml with the Platane/snk action,
-  then uncomment the block below after the first run.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tiagosol04/tiagosol04/output/snake.svg" alt="snake"/>
-</div>
--->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,50:5a189a,100:0d1b2a&height=4&section=header" width="100%"/>
-</div>
+---
 
 <!-- ==================== JOURNEY ==================== -->
 
@@ -241,8 +221,8 @@ Turning raw operational data into something a manager can read in ten seconds an
  ●  BSc Computer Engineering, UTAD
  │     first real projects, first real bugs, first real deadlines
  │
- ●  Research Fellow, Project A-MoVeR
- │     software for industry: traceability, quality, production data
+ ●  Software for industry
+ │     traceability, quality control and production data
  │
  ●  MSc Computer Engineering, UTAD
  │     software engineering, systems integration, AI and data analysis
@@ -251,44 +231,59 @@ Turning raw operational data into something a manager can read in ten seconds an
        shipping, studying, and looking for the next good challenge
 ```
 
-<!-- ==================== EXTRAS ==================== -->
+---
 
-## ☕ Off the clock
+<!-- ==================== DETAILS (native GitHub, always renders) ==================== -->
 
-<table>
-<tr>
-<td width="33%" align="center">
+## 🔍 A bit more, if you are curious
 
-**🎧 Coding soundtrack**
+<details>
+<summary><b>📱 How I think about mobile apps</b></summary>
 
-lo fi when debugging<br/>
-something loud when refactoring
+<br/>
 
-</td>
-<td width="33%" align="center">
+The user is standing up, wearing gloves, and has a queue behind them. That changes everything.
 
-**📚 Currently reading**
+- Big touch targets and few taps per action
+- The app has to work when the network does not
+- Every screen answers one question, not five
+- If something fails, say what to do next instead of showing an error code
 
-papers, docs, and<br/>
-other people's source code
+</details>
 
-</td>
-<td width="33%" align="center">
+<details>
+<summary><b>🔌 How I think about backends</b></summary>
 
-**🧠 Learning next**
+<br/>
 
-cloud, CI/CD pipelines<br/>
-and better system design
+The API is the contract. If it is clear, the rest of the system stays calm.
 
-</td>
-</tr>
-</table>
+- Validate at the edge, trust nothing that comes from outside
+- Keep business rules in one place instead of scattered across clients
+- Predictable status codes and predictable payloads
+- Logs written for the person who will read them at 2am
 
-<div align="center">
+</details>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+<details>
+<summary><b>🧠 What I am learning next</b></summary>
 
-</div>
+<br/>
+
+Cloud deployment, CI/CD pipelines and better system design. Basically everything that happens after the code is written.
+
+</details>
+
+<details>
+<summary><b>☕ Off the clock</b></summary>
+
+<br/>
+
+Lo fi while debugging, something loud while refactoring. I read documentation for fun, which I am told is a personality trait.
+
+</details>
+
+---
 
 <!-- ==================== FOOTER ==================== -->
 
