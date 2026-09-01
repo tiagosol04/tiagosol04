@@ -1,21 +1,25 @@
 <!-- ============================================================ -->
 <!--  TIAGO SOL RIBEIRO · GitHub Profile README                  -->
-<!--  Renders on LIGHT and DARK GitHub themes                    -->
-<!--  Only battle tested services are used here:                 -->
-<!--  shields.io · custom-icon-badges · skillicons.dev           -->
-<!--  capsule-render · readme-typing-svg · github-readme-stats   -->
-<!--  Everything else is native GitHub markdown, so it always    -->
-<!--  renders: tables, mermaid, details blocks and ASCII.        -->
+<!--                                                             -->
+<!--  Banner and footer are MY OWN svg files inside this repo,   -->
+<!--  so they never depend on an external service being up.      -->
+<!--  Everything else is either shields.io / skillicons or       -->
+<!--  native GitHub markdown: tables, code blocks and details.   -->
+<!--                                                             -->
+<!--  Files this README expects:                                 -->
+<!--    assets/banner.svg                                        -->
+<!--    assets/footer.svg                                        -->
+<!--    .github/workflows/snake.yml  (generates the snake)       -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,40:5a189a,75:0466c8,100:00b4d8&height=250&section=header&text=TIAGO%20SOL%20RIBEIRO&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Junior%20Software%20Developer%20%C2%B7%20MSc%20Student%20%C2%B7%20Android%20%26%20Backend&descAlignY=54&descSize=17&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Tiago Sol Ribeiro, Software Developer"/>
 
 <!-- Typing banner: one color per theme so it is always readable -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+for+real+industrial+environments;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;From+the+first+requirement+to+the+last+deploy;Always+learning.+Always+shipping." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=5A189A&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+for+real+industrial+environments;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;From+the+first+requirement+to+the+last+deploy;Always+learning.+Always+shipping." alt="typing banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+for+real+industrial+environments;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;Now+deep+into+cybersecurity+and+AI+development;Always+learning.+Always+shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=800&color=5A189A&background=00000000&center=true&vCenter=true&width=820&lines=I+write+software+for+real+industrial+environments;Android+apps+%7C+REST+APIs+%7C+Systems+Integration;Now+deep+into+cybersecurity+and+AI+development;Always+learning.+Always+shipping." alt="typing banner"/>
 </picture>
 
 <br/><br/>
@@ -37,12 +41,13 @@
 ```console
 tiago@utad:~$ ./start_profile.sh
 
-  [ok]  loading developer .................. Tiago Sol Ribeiro
+  [ok]  developer ......................... Tiago Sol Ribeiro
   [ok]  location .......................... Portugal, somewhere between code and coffee
-  [ok]  role .............................. Junior Software Developer
+  [ok]  role .............................. Software Developer
   [ok]  studying .......................... MSc Computer Engineering @ UTAD
-  [ok]  focus ............................. Android · Backend · Systems Integration
-  [..]  status ............................ building something right now
+  [ok]  right now ......................... writing my dissertation
+  [ok]  learning .......................... cybersecurity · AI powered development
+  [..]  status ............................ building something as you read this
 ```
 
 </div>
@@ -53,29 +58,34 @@ tiago@utad:~$ ./start_profile.sh
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-I am a Computer Engineering **MSc student at UTAD** and a **Junior Software Developer**. Most of my work lives where software meets the physical world: production lines, quality control, traceability and operational data.
+I am a **Software Developer** and a Computer Engineering **MSc student at UTAD**, currently working on my dissertation.
 
-I have built digital solutions for real industrial workflows, so I am used to turning messy requirements into things people actually use every day. Android apps on the shop floor, REST APIs behind them, databases holding the truth, dashboards making it visible.
+Most of my work lives where software meets the physical world: production lines, quality control, traceability and operational data. I have built digital solutions for real industrial workflows, so I am used to turning messy requirements into things people actually use every day. Android apps on the shop floor, REST APIs behind them, databases holding the truth, dashboards making it visible.
 
-I like clean architecture, code that survives contact with reality, and the moment a feature stops being a spec and starts being a habit for someone.
-
-```yaml
-name:        Tiago Sol Ribeiro
-role:        Junior Software Developer
-studying:    MSc Computer Engineering @ UTAD
-focus:       [ backend, mobile, systems integration ]
-stack:       [ Kotlin, Java, C#, Python, SQL ]
-languages:   [ PT native, EN B2, ES B2 ]
-fuel:        coffee, curiosity, good documentation
-open_to:     junior roles, internships, collaborations
-```
+Right now my curiosity is pointing at two places: **cybersecurity**, because writing software that works is only half the job, and **AI powered development**, because the way we build things is changing fast and I would rather be inside that change than reading about it later.
 
 </td>
-<td width="40%" valign="middle">
+<td width="42%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="developer at work"/>
+```yaml
+name:      Tiago Sol Ribeiro
+role:      Software Developer
+studying:  MSc Computer Engineering, UTAD
+status:    dissertation in progress
+learning:
+  - cybersecurity
+  - AI powered development
+builds:
+  - android apps
+  - rest apis
+  - dashboards
+stack:     [ Kotlin, Java, C#, Python, SQL ]
+speaks:    [ PT native, EN B2, ES B2 ]
+fuel:      coffee, curiosity, good docs
+open_to:   roles, internships, collabs
+```
 
 </td>
 </tr>
@@ -110,35 +120,13 @@ open_to:     junior roles, internships, collaborations
 <img src="https://img.shields.io/badge/JWT%20Auth-1a1a2e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&labelColor=F2C811&color=F2C811"/>
 <br/>
-<img src="https://img.shields.io/badge/Systems%20Integration-5a189a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Traceability-00b4d8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Requirements%20Analysis-0d1b2a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Patterns-c1121f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-c1121f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Powered%20Development-5a189a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Systems%20Integration-00b4d8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-0d1b2a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge"/>
 
 </div>
-
----
-
-<!-- ==================== HOW I WORK (native mermaid, always renders) ==================== -->
-
-## 🔁 How a project usually goes with me
-
-```mermaid
-flowchart LR
-    A([Someone has a problem]) --> B[Understand the workflow]
-    B --> C[Model the data]
-    C --> D[Build the API]
-    D --> E[Build the app]
-    E --> F[Test with real users]
-    F --> G([Deploy])
-    G -.-> B
-
-    style A fill:#5a189a,stroke:#00b4d8,color:#ffffff
-    style G fill:#0466c8,stroke:#00b4d8,color:#ffffff
-```
-
-I care about the loop at the end. Software that never goes back to the people using it tends to age badly.
 
 ---
 
@@ -176,21 +164,39 @@ Following a product from raw material to finished item, so that when someone ask
 </td>
 <td width="50%" valign="top">
 
-### 📊 Monitoring and dashboards
-Turning raw operational data into something a manager can read in ten seconds and act on.
+### 🔐 Security minded work
+My dissertation ground. Thinking about what breaks, who can break it, and how to make that boring for the attacker.
 
-`Power BI` `SQL` `Reporting`
+`Cybersecurity` `Secure Development`
 
 </td>
 </tr>
 </table>
 
-<!-- 
-  TIP: to show real repositories here, pin them with:
+<!--
+  TIP: to show real repositories here, use pinned repo cards:
   <a href="https://github.com/tiagosol04/REPO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagosol04&repo=REPO&theme=tokyonight"/>
   </a>
 -->
+
+---
+
+<!-- ==================== SNAKE ==================== -->
+
+## 🐍 My year of contributions, being eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagosol04/tiagosol04/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiagosol04/tiagosol04/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/tiagosol04/tiagosol04/output/snake.svg" width="100%" alt="contribution snake"/>
+</picture>
+
+</div>
+
+> The snake is generated every day by a GitHub Action from my own contribution graph, so it never depends on a third party site being online.
 
 ---
 
@@ -227,13 +233,13 @@ Turning raw operational data into something a manager can read in ten seconds an
  ●  MSc Computer Engineering, UTAD
  │     software engineering, systems integration, AI and data analysis
  │
- ◉  Now
-       shipping, studying, and looking for the next good challenge
+ ◉  Now, dissertation phase
+       cybersecurity, AI powered development, and shipping along the way
 ```
 
 ---
 
-<!-- ==================== DETAILS (native GitHub, always renders) ==================== -->
+<!-- ==================== DETAILS ==================== -->
 
 ## 🔍 A bit more, if you are curious
 
@@ -266,11 +272,24 @@ The API is the contract. If it is clear, the rest of the system stays calm.
 </details>
 
 <details>
-<summary><b>🧠 What I am learning next</b></summary>
+<summary><b>🔐 Why cybersecurity now</b></summary>
 
 <br/>
 
-Cloud deployment, CI/CD pipelines and better system design. Basically everything that happens after the code is written.
+Because every app I have built holds data someone cares about. Learning how systems get broken made me a better builder than any tutorial on clean code ever did.
+
+Currently digging into secure development practices, authentication done properly, and how to look at my own work the way an attacker would.
+
+</details>
+
+<details>
+<summary><b>🤖 Why AI powered development</b></summary>
+
+<br/>
+
+Not to replace the thinking, to remove the friction around it. I use AI the same way I use a debugger or a linter, as a tool that is only as good as the person holding it.
+
+The interesting part is figuring out where it helps, where it quietly lies to you, and how to tell the difference fast.
 
 </details>
 
@@ -291,7 +310,7 @@ Lo fi while debugging, something loud while refactoring. I read documentation fo
 
 ## 💬 Open to opportunities
 
-Junior Software Developer roles · Backend · Android · Systems Integration · Internships and technical talks
+Software Developer roles · Backend · Android · Systems Integration · Security · Internships and technical talks
 
 If you have a problem that needs software around it, I would like to hear about it.
 
@@ -304,6 +323,6 @@ If you have a problem that needs software around it, I would like to hear about 
 
 **Let's build something reliable together.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,35:0466c8,70:5a189a,100:0d1b2a&height=140&section=footer&text=thanks%20for%20scrolling&fontColor=ffffff&fontSize=18&fontAlignY=78" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
